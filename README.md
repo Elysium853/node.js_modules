@@ -29,4 +29,4 @@ Since this is a collection of utilities, you will typically copy or integrate th
 
 ```bash
 # Clone the repository to access all modules
-git clone [https://github.com/](https://github.com/Elysium853/node.js_modules.git)
+git clone https://github.com/Elysium853/node.js_modules.git
